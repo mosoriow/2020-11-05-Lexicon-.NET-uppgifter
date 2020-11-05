@@ -1,0 +1,13 @@
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Animals\Animals\bin\Debug\netcoreapp3.1\Animals.exe
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Animals\Animals\bin\Debug\netcoreapp3.1\Animals.deps.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Animals\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Animals\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.dev.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Animals\Animals\bin\Debug\netcoreapp3.1\Animals.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Animals\Animals\bin\Debug\netcoreapp3.1\Animals.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Animals\Animals\obj\Debug\netcoreapp3.1\Animals.csprojAssemblyReference.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Animals\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfoInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Animals\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfo.cs
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Animals\Animals\obj\Debug\netcoreapp3.1\Animals.csproj.CoreCompileInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Animals\Animals\obj\Debug\netcoreapp3.1\Animals.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Animals\Animals\obj\Debug\netcoreapp3.1\Animals.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Animals\Animals\obj\Debug\netcoreapp3.1\Animals.genruntimeconfig.cache
